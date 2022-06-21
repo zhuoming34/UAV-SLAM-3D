@@ -1,0 +1,32 @@
+STEPS (based on current stage)
+
+
+stage1
+-------
+B0: 13
+B1: 84
+
+
+stage2
+-------
+B5: 21
+B8: 98
+
+
+stage3
+-------
+B4: 61
+B7: 101
+B9: 161
+
+
+stage4
+-------
+B6: 37
+
+
+stage5
+-------
+B2: 87
+B3: 18
+
